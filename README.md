@@ -6,7 +6,6 @@ Plan to do a different language each month until I have completed the challenge 
   - Java
   - C#
   - C++
-  - C
   - Python
 
 Challenge can be seen below:
