@@ -1,5 +1,7 @@
 # 30Days_of_Code
-Solutions for Hackerrank 30 Days of Code in Java
+Solutions for Hackerrank 30 Days of Code in Java.
+
+C#, C++ and Python to be added over the next few months.
 
 Plan to do a different language each month until I have completed the challenge in the following languages:
 
