@@ -5,7 +5,7 @@ public class Solution {
     public static int minimum_index(int[] seq) {
         
         if (seq.length == 0) {
-            throw new IllegalArgumentException("Cannot get the minmum value index from an empty      sequence");           
+            throw new IllegalArgumentException("Cannot get the minmum value index from an empty sequence");           
         }
         
         int min_idx = 0;
